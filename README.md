@@ -1,0 +1,1 @@
+This is an introduction to engineering project. We were tasked, in any shape or form, to create a water level sensor, that gave out signals when it reached certain levels. We opted for an Arduino, LCD and sonic sensor, and found major success!
